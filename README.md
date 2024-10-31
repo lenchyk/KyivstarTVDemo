@@ -28,7 +28,7 @@ You can do only required section, or required and optional sections.
 1. MVVM+C
 2. Combine for binding
 3. Diffable Data Source and Compositional Layout in UIKit page
-4. Lowest iOS version have to be 14.0
+4. Lowest iOS version have to be 15.0
 
 Any other technics and mechanics - on your choice.
 Would be a plus if you will use modern concurency methods.
